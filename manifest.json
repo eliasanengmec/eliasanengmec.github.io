@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "English Daily - Mastery 80",
+  "short_name": "English Daily",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#06111f",
+  "theme_color": "#071427",
+  "orientation": "portrait-primary",
+  "lang": "pt-BR",
+  "description": "Aprenda inglês ouvindo, falando e escrevendo. Avanço com 80% de domínio e revisão espaçada.",
+  "categories": [
+    "education",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
