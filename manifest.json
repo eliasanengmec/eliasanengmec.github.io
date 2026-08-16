@@ -1,15 +1,15 @@
 {
   "id": "./",
-  "name": "English Daily - Mastery 80",
-  "short_name": "English Daily",
+  "name": "English Daily - Kaizen Complete",
+  "short_name": "English Kaizen",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#06111f",
-  "theme_color": "#071427",
+  "background_color": "#04101d",
+  "theme_color": "#061426",
   "orientation": "portrait-primary",
   "lang": "pt-BR",
-  "description": "Aprenda inglês ouvindo, falando e escrevendo. Avanço com 80% de domínio e revisão espaçada.",
+  "description": "Curso progressivo de inglês com Kaizen, domínio de 80%, revisão espaçada, listening, speaking e writing.",
   "categories": [
     "education",
     "productivity"
